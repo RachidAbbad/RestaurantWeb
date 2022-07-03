@@ -1,0 +1,7 @@
+p.message{
+	border: 1px 1px white;
+	border-radius:5px;
+	padding:10px;
+	color:white;
+	background:red;
+}
